@@ -6,13 +6,7 @@ Pagina de links desenvolvida por Thiago Sette.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 </p>
 
 <br>
@@ -28,9 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
--Figma
+  -Figma
 
 ## 💻 Projeto
 
 O LinkTree Corporativo é uma solução elegante e altamente personalizável para organizar e compartilhar links importantes de sua empresa ou perfil profissional em um único local acessível. Este projeto permite que você crie uma página de destino profissional que apresenta seus links de forma organizada e atraente, melhorando a experiência do usuário ao direcioná-los para recursos valiosos.
-
