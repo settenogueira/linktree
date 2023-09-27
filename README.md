@@ -11,10 +11,6 @@ Pagina de links desenvolvida por Thiago Sette.
 
 <br>
 
-<p align="center">
-  <img alt="projeto de linkTree" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
